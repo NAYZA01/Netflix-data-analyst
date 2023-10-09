@@ -33,4 +33,4 @@ To run project codes in a local Python environment, follow these steps:
 
 Download the project files from this repository.
 
-Use the following command to install the required Python libraries:pip install pandas matplotlib seaborn wordcloud
+Use the following command to:  install the required Python libraries:pip install pandas matplotlib seaborn wordcloud
